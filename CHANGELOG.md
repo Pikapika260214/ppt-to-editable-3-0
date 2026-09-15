@@ -1,3 +1,12 @@
+# 2026-09-15 — astralow-for-editable-ppt
+
+- 用已测试的轻量 Skill 替换旧 ppt-to-editable 目录。
+- 提供 Deck 绘图接口、PowerPoint 渲染和副本编辑验证。
+- 更新安装、迁移、依赖与能力边界，移除不再适用的旧 controller 使用说明。
+- 仓库地址和 MIT 许可保持不变；旧版本保留在 Git 历史。
+
+---
+
 # Changelog
 
 ## v3.0 Preview
